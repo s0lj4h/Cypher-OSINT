@@ -1,20 +1,19 @@
 # Cypher OSINT 
 
-- OSINT (Open-Source Intelligence) is the practice of gathering and analyzing publicly available information to support investigations, security operations, and decision making. 
-It draws from sources like websites, social media, public records, and satellite imagery to uncover actionable insights.
+- OSINT (Open-Source Intelligence) is the practice of gathering and analyzing publicly available information to support investigations, security operations, and decision making. from sources like websites, social media, public records, and satellite imagery.
 - BLOCKINT (Blockchain Intelligence) — Data about cryptocurrency transactions.
-COMINT (Communications Intelligence) — Data collected by intercepting signals exchanged between people.
-CRIMINT (Criminal Intelligence) — Information about criminal activities.
-CYBINT (Cyber Intelligence) — Data gathered from computer systems and networks.
-DARKINT (Darkweb Intelligence) — Data collected from Tor, I2P, Freenet, and other dark web networks.
-FININT (Financial Intelligence) — Information on financial activities, often sourced from financial institutions.
-GEOINT (Geospatial Intelligence) — Geographic data typically obtained from satellites.
-IMINT (Imagery Intelligence) — Information derived from photos or other imagery.
-SIGINT (Signals Intelligence) — Data collected by intercepting signals exchanged between individuals or electronic systems. 
-SOCMINT (Social Media Intelligence) — Intelligence gathered from social media platforms.
-TECHINT (Technical Intelligence) — Data about equipment and technologies.
-WEBINT (Web Intelligence) - Data gathered from web platforms.
-HUMINT (Human Intelligence) - Gathering and analyzing information from human sources, such as agents or informants.
+- COMINT (Communications Intelligence) — Data collected by intercepting signals exchanged between people.
+- CRIMINT (Criminal Intelligence) — Information about criminal activities.
+- CYBINT (Cyber Intelligence) — Data gathered from computer systems and networks.
+- DARKINT (Darkweb Intelligence) — Data collected from Tor, I2P, Freenet, and other dark web networks.
+- FININT (Financial Intelligence) — Information on financial activities, often sourced from financial institutions.
+- GEOINT (Geospatial Intelligence) — Geographic data typically obtained from satellites.
+- IMINT (Imagery Intelligence) — Information derived from photos or other imagery.
+- SIGINT (Signals Intelligence) — Data collected by intercepting signals exchanged between individuals or electronic systems. 
+- SOCMINT (Social Media Intelligence) — Intelligence gathered from social media platforms.
+- TECHINT (Technical Intelligence) — Data about equipment and technologies.
+- WEBINT (Web Intelligence) - Data gathered from web platforms.
+- HUMINT (Human Intelligence) - Gathering and analyzing information from human sources, such as agents or informants.
 ---
 
 ## 📖 Table of Contents
@@ -32,15 +31,15 @@ HUMINT (Human Intelligence) - Gathering and analyzing information from human sou
 
 ---
 
-## 🔍 Overview
+##  Overview 🔍
 This repository collects various OSINT tools and resources.
 
 ---
 
-## 🕵️ OSINT 
-- **Open-source Intelligence:**
+##  OSINT 🕵️
+**Open-source Intelligence**
  
-- **Username:**
+**Username**
 [Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.
 [WhatsMyName](https://whatsmyname.app/) - WhatsMyName is a web platform that provides a simple interface to check usernames existing on social media and other platforms.
 [Blackbird](https://github.com/p1ngul1n0/blackbird) - Blackbird is a CLI OSINT tool that conducts fast searches based on usernames and emails, command-line version of WhatsMyName 
@@ -80,7 +79,7 @@ This repository collects various OSINT tools and resources.
 ---
 
 ## GEOINT 🗺️ 
-**Geospatial Intelligence:**
+**Geospatial Intelligence**
 
 ### Maps & Satellite 🌍 
 [Google Earth](https://earth.google.com/)
