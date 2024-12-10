@@ -62,18 +62,18 @@ This repository collects various OSINT tools and resources.
 ---
 
 ## BLOCKINT 🪙
-**Blockchain Intelligence**  
+**Blockchain Intelligence**
 
  [OnChain Industries](https://www.onchain.industries/)  
 
  ---
 
- ## DARKINT 🥷 
+ ## DARKINT 🥷
  **Darkweb Intelligence**  
 
 ---
 
-## FININT 💳 
+## FININT 💳
 **Financial Intelligence**  
 
 ---
@@ -81,60 +81,65 @@ This repository collects various OSINT tools and resources.
 ## GEOINT 🗺️ 
 **Geospatial Intelligence**
 
-### Maps & Satellite 🌍 
+### Maps & Satellite 🌍
 [Google Earth](https://earth.google.com/)  
 [World Wayback](https://worldwayback.com/)  
 [Sentinel](https://www.sentinel-hub.com/)  
 
-###  AI-Powered Geo-Estimation 🤖  
+###  AI-Powered Geo-Estimation 🤖
 [GeoEstimation](https://geoestimation.com/)  
 
-### Screenshot & Annotation Tools 🖼   
+### Screenshot & Annotation Tools 🖼 
 [ShareX](https://getsharex.com/)  
 [Flameshot](https://flameshot.org/)  
 
-### Source Search 🔗  
+### Source Search 🔗
 [Bing](https://www.bing.com/)  
 [Google](https://images.google.com/)  
 [Source Searcher](https://sourceseacher.com/)  
 
-### Shadow-Based Time Calculators 🌞   
+### Shadow-Based Time Calculators 🌞
 Determine the time of day a photo was taken by analyzing shadows.  
+  
 [SunCalc](https://www.suncalc.org/)  
 [ShadowMap](https://shadowmap.org/)  
 [ShadowCalculator](https://www.shadowcalculator.eu/)  
 
-### Object Identification 📍  
+### Object Identification 📍
 Compare common objects (traffic lights, road signs, power poles, etc.) across different regions.  
+  
 [GeoHints](https://geohints.com/)  
 
-### Plant Identification 🌱  
+### Plant Identification 🌱
 Recognize plants in photos and find out where they are commonly found.  
+  
 [Identify PlantNet](https://identify.plantnet.org/)  
 
 ### Bird Identification 🐦  
 Identify and map birds species and where they can be found globally.  
+  
 [MerlinAllAboutBirds](https://merlin.allaboutbirds.org/)  
 [eBird](https://ebird.org/)  
 
 ### Landscape 🏞  
 Match mountain landscapes.  
+  
 [PeakVisor](https://peakvisor.com/)  
 
 ---
 
-## IMINT  
+## IMINT 🖼 
 
-### Face Recognition 🕵️  
+### Face Recognition 🤦‍♂️ 
 [FaceCheck](https://facecheck.id/)  
 [Pimeyes](https://pimeyes.com/)  
 
 ---
 
-## Webint 🌐  
+## Webint 🕸 
 **Web Intelligence:**  
 
-###Domain and IP Analysis  
+### Domain and IP Analysis 🌐 
   
   [Whois Lookup](https://whois.domaintools.com/)  
   [IPVoid](https://www.ipvoid.com/)  
@@ -142,7 +147,7 @@ Match mountain landscapes.
 
 ---
 
-##  SOCMINT 📲  
+##  SOCMINT 📲
 **Social Media Intelligence**  
   
 [Pipl](https://pipl.com/) - People search.  
