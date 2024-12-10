@@ -137,10 +137,8 @@ Match mountain landscapes.
 ---
 
 ## Webint 🕸 
-**Web Intelligence:**  
-
+**Web Intelligence**  
 ### Domain and IP Analysis 🌐 
-  
   [Whois Lookup](https://whois.domaintools.com/)  
   [IPVoid](https://www.ipvoid.com/)  
   [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS enumeration tool.  
@@ -149,7 +147,6 @@ Match mountain landscapes.
 
 ##  SOCMINT 📲
 **Social Media Intelligence**  
-  
 [Pipl](https://pipl.com/) - People search.  
 [Social-Searcher](https://www.social-searcher.com/) - Social media monitoring.  
 
