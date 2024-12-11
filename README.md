@@ -1,7 +1,7 @@
 # Cypher OSINT 
 
-- OSINT (Open-Source Intelligence) is the practice of gathering and analyzing publicly available information to support investigations, security operations, and decision making. from sources like websites, social media, public records, and satellite imagery.
-- BLOCKINT (Blockchain Intelligence) — Data about cryptocurrency transactions.
+- OSINT (Open-Source Intelligence) Gathering and analyzing publicly available information to support investigations, security operations, and decision making. from sources like websites, social media, public records, and satellite imagery.
+- <b>BLOCKINT</b> (Blockchain Intelligence) Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities.
 - COMINT (Communications Intelligence) — Data collected by intercepting signals exchanged between people.
 - CRIMINT (Criminal Intelligence) — Information about criminal activities.
 - CYBINT (Cyber Intelligence) — Data gathered from computer systems and networks.
