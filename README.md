@@ -1,9 +1,9 @@
 <h1 align="center">
 <b>Cypher OSINT</b>  
 </h1 align="center">  
-
-- <b>OSINT</b> (Open-Source Intelligence) - Gathering and analyzing publicly available information from sources such as websites, social media, public records, and news outlets. from sources like websites, social media, public records, and satellite imagery.
-- <b>BLOCKINT</b> (Blockchain Intelligence) - Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities.
+<p>
+<b>OSINT</b> (Open-Source Intelligence) - Gathering and analyzing publicly available information from sources such as websites, social media, public records, and news outlets. from sources like websites, social media, public records, and satellite imagery.</p>
+- <b>BLOCKINT</b> (Blockchain Intelligence) - Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities. track digital assets, identify suspicious patterns, and link transactions to potential entities or activities. 
 - COMINT (Communications Intelligence) — Data collected by intercepting signals exchanged between people.
 - CRIMINT (Criminal Intelligence) — Information about criminal activities.
 - CYBINT (Cyber Intelligence) — Data gathered from computer systems and networks.
