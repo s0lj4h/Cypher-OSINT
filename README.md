@@ -3,8 +3,10 @@
 </h1 align="center">  
 
 ---
+| | |
+|---|---|
 
-<b>OSINT (Open-Source Intelligence)</b> - Gathering and analyzing publicly available information from sources such as websites, social media, public records, and news outlets. from sources like websites, social media, public records, and satellite imagery.    
+<b>|OSINT (Open-Source Intelligence)|</b> information gathered from publicly available sources such as websites, social media, public records, news outlets, and satellite imagery.|
 <b>BLOCKINT (Blockchain Intelligence)</b> - Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities. track digital assets, identify suspicious patterns, and link transactions to potential entities or activities.     
 <b>COMINT (Communications Intelligence)</b> — Data collected by intercepting signals exchanged between people.    
 <b>CRIMINT (Criminal Intelligence)</b> — Information about criminal activities.    
@@ -41,10 +43,9 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-<h2>OSINT 🕵️</h2>
-<h3>Open-source Intelligence</h3>
+<h2>OSINT 🕵️ (Open-source Intelligence)</h2>
  
-**Username**   
+<h3>Username</h3>  
 [Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.  
 [WhatsMyName](https://whatsmyname.app/) - WhatsMyName is a web platform that provides a simple interface to check usernames existing on social media and other platforms.  
 [Blackbird](https://github.com/p1ngul1n0/blackbird) - CLI OSINT tool that conducts fast searches based on usernames and emails, command-line version of WhatsMyName.  
