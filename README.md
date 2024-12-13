@@ -21,7 +21,7 @@
 
 ---
 
-##  Table of Contents 📖
+###  Table of Contents 📖
 1.  [Overview](#overview)
 2.  [OSINT](#osint)
 3.  [BLOCKINT](#blockint)
@@ -36,15 +36,15 @@
 
 ---
 
-##  Overview 🔍 [](#overview)
+###  Overview 🔍 [](#overview)
 This repository collects various OSINT tools and resources.
 
 ---
 
-##  OSINT 🕵️
+###  OSINT 🕵️
 **Open-source Intelligence**
  
-### Username ###  
+## Username ###  
 [Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.  
 [WhatsMyName](https://whatsmyname.app/) - WhatsMyName is a web platform that provides a simple interface to check usernames existing on social media and other platforms.  
 [Blackbird](https://github.com/p1ngul1n0/blackbird) - CLI OSINT tool that conducts fast searches based on usernames and emails, command-line version of WhatsMyName.  
@@ -66,74 +66,74 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-## BLOCKINT 🪙
+### BLOCKINT 🪙
 **Blockchain Intelligence**
 
  [OnChain Industries](https://www.onchain.industries/)  
 
  ---
 
- ## DARKINT 🥷
+ ### DARKINT 🥷
  **Darkweb Intelligence**  
 
 ---
 
-## FININT 💳
+### FININT 💳
 **Financial Intelligence**  
 
 ---
 
-## GEOINT 🗺️ 
+### GEOINT 🗺️ 
 **Geospatial Intelligence**
 
-### Maps & Satellite 🌍
+## Maps & Satellite 🌍
 [Google Earth](https://earth.google.com/)  
 [World Wayback](https://worldwayback.com/)  
 [Sentinel](https://www.sentinel-hub.com/)  
 
-###  AI-Powered Geo-Estimation 🤖
+##  AI-Powered Geo-Estimation 🤖
 [GeoEstimation](https://geoestimation.com/)  
 
-### Screenshot & Annotation Tools 🖼 
+## Screenshot & Annotation Tools 🖼 
 [ShareX](https://getsharex.com/)  
 [Flameshot](https://flameshot.org/)  
 
-### Source Search 🔗
+## Source Search 🔗
 [Bing](https://www.bing.com/)  
 [Google](https://images.google.com/)  
 [Source Searcher](https://sourceseacher.com/)  
 
-### Shadow-Based Time Calculators 🌞
+## Shadow-Based Time Calculators 🌞
 Determine the time of day a photo was taken by analyzing shadows.  
   
 [SunCalc](https://www.suncalc.org/)  
 [ShadowMap](https://shadowmap.org/)  
 [ShadowCalculator](https://www.shadowcalculator.eu/)  
 
-### Object Identification 📍
+## Object Identification 📍
 Compare common objects (traffic lights, road signs, power poles, etc.) across different regions.  
   
 [GeoHints](https://geohints.com/)  
 
-### Plant Identification 🌱
+## Plant Identification 🌱
 Recognize plants in photos and find out where they are commonly found.  
   
 [Identify PlantNet](https://identify.plantnet.org/)  
 
-### Bird Identification 🐦  
+## Bird Identification 🐦  
 Identify and map birds species and where they can be found globally.  
   
 [MerlinAllAboutBirds](https://merlin.allaboutbirds.org/)  
 [eBird](https://ebird.org/)  
 
-### Landscape 🏞  
+## Landscape 🏞  
 Match mountain landscapes.  
   
 [PeakVisor](https://peakvisor.com/)  
 
 ---
 
-## IMINT 🖼 
+### IMINT 🖼 
 
 ### Face Recognition 🤦‍♂️ 
 [FaceCheck](https://facecheck.id/)  
@@ -141,16 +141,16 @@ Match mountain landscapes.
 
 ---
 
-## Webint 🕸 
+### Webint 🕸 
 **Web Intelligence**  
-### Domain and IP Analysis 🌐 
+## Domain and IP Analysis 🌐 
   [Whois Lookup](https://whois.domaintools.com/)  
   [IPVoid](https://www.ipvoid.com/)  
   [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS enumeration tool.  
 
 ---
 
-##  SOCMINT 📲
+###  SOCMINT 📲
 **Social Media Intelligence**  
 [Pipl](https://pipl.com/) - People search.  
 [Social-Searcher](https://www.social-searcher.com/) - Social media monitoring.  
@@ -158,7 +158,7 @@ Match mountain landscapes.
 
 ---
 
-##  Learning Resources 🎓
+###  Learning Resources 🎓
 
 - **Tutorials:**
   - In Progress.
@@ -168,12 +168,12 @@ Match mountain landscapes.
     
 ---
 
-##  Contributing 🤝
+###  Contributing 🤝
 We welcome contributions! 
 
 ---
 
-##  License 📄
+###  License 📄
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and share it for both personal and commercial purposes.
 
 ---
