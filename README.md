@@ -42,7 +42,7 @@ This repository collects various OSINT tools and resources.
 ---
 
 <h2>OSINT 🕵️</h2>
-**Open-source Intelligence**
+<h3>Open-source Intelligence</h3>
  
 **Username**   
 [Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.  
