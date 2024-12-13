@@ -6,7 +6,7 @@
 
 ## Definitions 
 
-<b>| OSINT (Open-Source Intelligence)|</b>information gathered from publicly available sources such as websites, social media, public records, news outlets, and satellite imagery. 
+<b>OSINT (Open-Source Intelligence)</b>information gathered from publicly available sources such as websites, social media, public records, news outlets, and satellite imagery. 
 <b>BLOCKINT (Blockchain Intelligence)</b> - Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities. track digital assets, identify suspicious patterns, and link transactions to potential entities or activities.     
 <b>COMINT (Communications Intelligence)</b> — Data collected by intercepting signals exchanged between people.    
 <b>CRIMINT (Criminal Intelligence)</b> — Information about criminal activities.    
@@ -43,9 +43,9 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-<h2>OSINT 🕵️ (Open-source Intelligence)</h2>
+### [OSINT](#osint)OSINT (Open-source Intelligence) 🕵️
  
-**Username**
+## Username 
 [Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.   
 [WhatsMyName](https://whatsmyname.app/) - WhatsMyName is a web platform that provides a simple interface to check usernames existing on social media and other platforms.   
 [Blackbird](https://github.com/p1ngul1n0/blackbird) - CLI OSINT tool that conducts fast searches based on usernames and emails, command-line version of WhatsMyName.   
@@ -59,7 +59,7 @@ This repository collects various OSINT tools and resources.
 [Instant Username Search](https://instantusername.com/) - Checks for username availability across multiple platforms.   
 [Namecheckup](https://namecheckup.com/) - Searches for username availability on over 300 platforms.   
   
-### Data Visualization and Automation
+## Data Visualization and Automation
 [Maltego](https://www.maltego.com/) - A powerful data visualization tool.  
 [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT tool.  
 [TheHarvester](https://github.com/laramies/theHarvester) - Email, subdomain, and IP gathering tool.  
@@ -67,25 +67,23 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-### BLOCKINT 🪙
-**Blockchain Intelligence**
+### BLOCKINT (Blockchain Intelligence) 🪙   
 
  [OnChain Industries](https://www.onchain.industries/)  
 
  ---
 
- ### DARKINT 🥷
- **Darkweb Intelligence**  
+ ### DARKINT (Darkweb Intelligence) 🥷  
+  
 
 ---
 
-### FININT 💳
-**Financial Intelligence**  
+### FININT (Financial Intelligence) 💳  
+
 
 ---
 
-### GEOINT 🗺️ 
-**Geospatial Intelligence**
+### GEOINT (Geospatial Intelligence) 🗺️ 
 
 ## Maps & Satellite 🌍
 [Google Earth](https://earth.google.com/)  
@@ -134,16 +132,16 @@ Match mountain landscapes.
 
 ---
 
-### IMINT 🖼 
+### IMINT (Image Intelligence) 🖼 
 
-### Face Recognition 🤦‍♂️ 
+## Face Recognition 🤦‍♂️ 
 [FaceCheck](https://facecheck.id/)  
 [Pimeyes](https://pimeyes.com/)  
 
 ---
 
-### Webint 🕸 
-**Web Intelligence**  
+### Webint (Web Intelligence) 🕸 
+
 ## Domain and IP Analysis 🌐 
   [Whois Lookup](https://whois.domaintools.com/)  
   [IPVoid](https://www.ipvoid.com/)  
@@ -151,8 +149,8 @@ Match mountain landscapes.
 
 ---
 
-###  SOCMINT 📲
-**Social Media Intelligence**  
+###  SOCMINT (Social Media Intelligence)📲
+
 [Pipl](https://pipl.com/) - People search.  
 [Social-Searcher](https://www.social-searcher.com/) - Social media monitoring.  
 
@@ -161,10 +159,10 @@ Match mountain landscapes.
 
 ###  Learning Resources 🎓
 
-- **Tutorials:**
+- ##Tutorials
   - In Progress.
     
-- **Courses:**
+- ##Courses
   - In Progress.
     
 ---
