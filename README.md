@@ -4,20 +4,20 @@
 
 ---
 
-<b>-OSINT (Open-Source Intelligence)</b> - Gathering and analyzing publicly available information from sources such as websites, social media, public records, and news outlets. from sources like websites, social media, public records, and satellite imagery.    
-<b>-BLOCKINT (Blockchain Intelligence)</b> - Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities. track digital assets, identify suspicious patterns, and link transactions to potential entities or activities.     
-<b>-COMINT (Communications Intelligence)</b> — Data collected by intercepting signals exchanged between people.    
-<b>-CRIMINT (Criminal Intelligence)</b> — Information about criminal activities.    
-<b>-CYBINT (Cyber Intelligence)</b> — Data gathered from computer systems and networks.    
-<b>-DARKINT (Darkweb Intelligence)</b> — Data collected from Tor, I2P, Freenet, and other dark web networks.    
-<b>-FININT (Financial Intelligence)</b> — Information on financial activities, often sourced from financial institutions.    
-<b>-GEOINT (Geospatial Intelligence)</b> — Geographic data typically obtained from satellites.    
-<b>-IMINT (Imagery Intelligence)</b> — Information derived from photos or other imagery.    
-<b>-SIGINT (Signals Intelligence)</b> — Data collected by intercepting signals exchanged between individuals or electronic systems.     
-<b>-SOCMINT (Social Media Intelligence)</b> — Intelligence gathered from social media platforms.    
-<b>-TECHINT (Technical Intelligence)</b> — Data about equipment and technologies.    
-<b>-WEBINT (Web Intelligence)</b> - Data gathered from web platforms.    
-<b>-HUMINT (Human Intelligence)</b> - Gathering and analyzing information from human sources, such as agents or informants.    
+-<b>OSINT (Open-Source Intelligence)</b> - Gathering and analyzing publicly available information from sources such as websites, social media, public records, and news outlets. from sources like websites, social media, public records, and satellite imagery.    
+-<b>BLOCKINT (Blockchain Intelligence)</b> - Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities. track digital assets, identify suspicious patterns, and link transactions to potential entities or activities.     
+-<b>COMINT (Communications Intelligence)</b> — Data collected by intercepting signals exchanged between people.    
+-<b>CRIMINT (Criminal Intelligence)</b> — Information about criminal activities.    
+-<b>CYBINT (Cyber Intelligence)</b> — Data gathered from computer systems and networks.    
+-<b>DARKINT (Darkweb Intelligence)</b> — Data collected from Tor, I2P, Freenet, and other dark web networks.    
+-<b>FININT (Financial Intelligence)</b> — Information on financial activities, often sourced from financial institutions.    
+-<b>GEOINT (Geospatial Intelligence)</b> — Geographic data typically obtained from satellites.    
+-<b>IMINT (Imagery Intelligence)</b> — Information derived from photos or other imagery.    
+-<b>SIGINT (Signals Intelligence)</b> — Data collected by intercepting signals exchanged between individuals or electronic systems.     
+-<b>SOCMINT (Social Media Intelligence)</b> — Intelligence gathered from social media platforms.    
+-<b>TECHINT (Technical Intelligence)</b> — Data about equipment and technologies.    
+-<b>WEBINT (Web Intelligence)</b> - Data gathered from web platforms.    
+-<b>HUMINT (Human Intelligence)</b> - Gathering and analyzing information from human sources, such as agents or informants.    
 
 ---
 
