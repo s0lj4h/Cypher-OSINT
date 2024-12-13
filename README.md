@@ -41,10 +41,10 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-###  OSINT 🕵️
+<h2>OSINT 🕵️</h2>
 **Open-source Intelligence**
  
-## Username   
+**Username**   
 [Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.  
 [WhatsMyName](https://whatsmyname.app/) - WhatsMyName is a web platform that provides a simple interface to check usernames existing on social media and other platforms.  
 [Blackbird](https://github.com/p1ngul1n0/blackbird) - CLI OSINT tool that conducts fast searches based on usernames and emails, command-line version of WhatsMyName.  
