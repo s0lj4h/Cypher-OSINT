@@ -3,10 +3,11 @@
 </h1 align="center">  
 
 ---
-| Term | Definition |
-|---|---|
 
-<b>|OSINT (Open-Source Intelligence)|</b> information gathered from publicly available sources such as websites, social media, public records, news outlets, and satellite imagery.|
+| Term | Definition |
+| --- | --- |
+
+<b>| OSINT (Open-Source Intelligence)|</b> information gathered from publicly available sources such as websites, social media, public records, news outlets, and satellite imagery. |
 <b>BLOCKINT (Blockchain Intelligence)</b> - Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities. track digital assets, identify suspicious patterns, and link transactions to potential entities or activities.     
 <b>COMINT (Communications Intelligence)</b> — Data collected by intercepting signals exchanged between people.    
 <b>CRIMINT (Criminal Intelligence)</b> — Information about criminal activities.    
