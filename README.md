@@ -35,8 +35,8 @@
 11. [License](#license)
 
 ---
-(#overview)
-##  Overview 🔍
+
+##  Overview 🔍 [](#overview)
 This repository collects various OSINT tools and resources.
 
 ---
