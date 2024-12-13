@@ -3,7 +3,7 @@
 </h1 align="center">  
 
 ---
-| | |
+| Term | Definition |
 |---|---|
 
 <b>|OSINT (Open-Source Intelligence)|</b> information gathered from publicly available sources such as websites, social media, public records, news outlets, and satellite imagery.|
@@ -38,7 +38,7 @@
 
 ---
 
-###  Overview 🔍 [](#overview)
+### [](#overview)Overview 🔍 
 This repository collects various OSINT tools and resources.
 
 ---
