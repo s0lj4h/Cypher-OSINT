@@ -22,7 +22,7 @@
 | <b>SOCMINT (Social Media Intelligence)</b>   | Intelligence gathered from social media platforms.                                                              |
 | <b>TECHINT (Technical Intelligence)</b>      | Data about equipment and technologies.                                                                          |
 | <b>WEBINT (Web Intelligence)</b>             | Data gathered from web platforms.                                                                               |
-| <b>HUMINT (Human Intelligence)</b>           |  Gathering and analyzing information from human sources, such as agents or informants.                          |
+| <b>HUMINT (Human Intelligence)</b>           | Gathering and analyzing information from human sources, such as agents or informants.                          |
 
 
 ---
@@ -49,7 +49,20 @@ This repository collects various OSINT tools and resources.
 
 ## OSINT (Open-source Intelligence)  
 
-### 
+### Search Engines
+* [Aol](https://search.aol.com) 
+* [Ask](https://www.ask.com)
+* [Baidu](http://www.baidu.com) 
+* [Bing](https://www.bing.com) 
+* [Brave](https://search.brave.com) 
+* [DuckDuckGo](https://duckduckgo.com) 
+* [Goodsearch](https://www.goodsearch.com) 
+* [Google Search](https://www.google.com) 
+* [Mojeek](https://www.mojeek.com/) 
+* [Search.com](https://www.search.com) 
+* [Yahoo! Search](https://www.yahoo.com) 
+* [Yandex](http://www.yandex.com)
+
 
 ### Username 
 [Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.     
@@ -65,7 +78,7 @@ This repository collects various OSINT tools and resources.
 [Instant Username Search](https://instantusername.com/) - Checks for username availability across multiple platforms.     
 [Namecheckup](https://namecheckup.com/) - Searches for username availability on over 300 platforms.     
   
-## Data Visualization and Automation
+### Data Visualization and Automation
 [Maltego](https://www.maltego.com/) - A powerful data visualization tool.    
 [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT tool.    
 [TheHarvester](https://github.com/laramies/theHarvester) - Email, subdomain, and IP gathering tool.    
@@ -81,6 +94,7 @@ This repository collects various OSINT tools and resources.
 
  ## DARKINT (Darkweb Intelligence) 🥷    
   
+ [Criminal IP](https://www.criminalip.io/) 
 
 ---
 
