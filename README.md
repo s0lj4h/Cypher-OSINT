@@ -21,21 +21,21 @@
 <b>WEBINT (Web Intelligence)</b> - Data gathered from web platforms.      
 <b>HUMINT (Human Intelligence)</b> - Gathering and analyzing information from human sources, such as agents or informants.      
 
-| Term                        | Definition                                                                                             |
-|-----------------------------|--------------------------------------------------------------------------------------------------------|
-| OSINT [OSINT](#osint)                     | Open-source Intelligence; information gathered from publicly available sources.                                    |
-| Social Media                              | (#social-media)   |
-| Domain/IP/Links                           | (#domainiplinks)                  |
-| Image Search and Identification           | [Explore](#image-search-and-identification)                         |
-| Cryptocurrencies                          | [Explore](#cryptocurrencies)                       |
-| Messengers                                | [Explore](#messengers)                       |
-| Code                                      | [Explore](#code)                       |
-| Search engines                            | [Explore](#search-engines)                       |
-| IOT                                       | [Explore](#iot)                       |
-| Archives                                  | [Explore](#archives)                       |
-| Passwords                                  | [Explore](#passwords)                       |
-| Emails                                  | [Explore](#emails)                       |
-| Nicknames                                  | [Explore](#nicknames)                       |
+| Term                                      | Definition                                                                               |
+|-------------------------------------------|------------------------------------------------------------------------------------------|
+| <b>OSINT (Open-source Intelligence)</b>   | Information gathered from publicly available sources.                                    |
+|                             |          |
+|                        |                         |
+|           |                          |
+|                         |                      |
+|                                |                    |
+|                                    |                     |
+|                            |                     |
+|                                   |                      |
+|                                 |                       |
+|                                |                      |
+|                                 |                      |
+|                               |                       |
 
 
 
