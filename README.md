@@ -6,37 +6,29 @@
 
 ## Definitions 
 
-<b>OSINT (Open-Source Intelligence)</b>information gathered from publicly available sources.
-<b>BLOCKINT (Blockchain Intelligence)</b> - Cryptocurrency blockchain data, tracking digital assets, identify suspicious patterns, and link transactions to potential entities or activities.       
-<b>COMINT (Communications Intelligence)</b> — Data collected by intercepting signals exchanged between people.      
-<b>CRIMINT (Criminal Intelligence)</b> — Information about criminal activities.      
-<b>CYBINT (Cyber Intelligence)</b> — Data gathered from computer systems and networks.      
-<b>DARKINT (Darkweb Intelligence)</b> — Data collected from Tor, I2P, Freenet, and other dark web networks.       
-<b>FININT (Financial Intelligence)</b> — Information on financial activities, often sourced from financial institutions.      
-<b>GEOINT (Geospatial Intelligence)</b> — Geographic data typically obtained from satellites.      
-<b>IMINT (Imagery Intelligence)</b> — Information derived from photos or other imagery.       
-<b>SIGINT (Signals Intelligence)</b> — Data collected by intercepting signals exchanged between individuals or electronic systems.       
-<b>SOCMINT (Social Media Intelligence)</b> — Intelligence gathered from social media platforms.      
-<b>TECHINT (Technical Intelligence)</b> — Data about equipment and technologies.      
-<b>WEBINT (Web Intelligence)</b> - Data gathered from web platforms.      
-<b>HUMINT (Human Intelligence)</b> - Gathering and analyzing information from human sources, such as agents or informants.      
+ —        
+ —        
+ —       
+—       
+ -      
+ -      
 
-| Term                                      | Definition                                                                               |
-|-------------------------------------------|------------------------------------------------------------------------------------------|
-| <b>OSINT (Open-source Intelligence)</b>   | Information gathered from publicly available sources.                                    |
-|                             |          |
-|                        |                         |
-|           |                          |
-|                         |                      |
-|                                |                    |
-|                                    |                     |
-|                            |                     |
-|                                   |                      |
-|                                 |                       |
-|                                |                      |
-|                                 |                      |
-|                               |                       |
-
+| Term                                         | Definition                                                                                                         |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| <b>OSINT (Open-source Intelligence)</b>      | Information gathered from publicly available sources.                                                           |
+| <b>BLOCKINT (Blockchain Intelligence)</b>    | Blockchain data, digital assets, identify patterns, and link transactions to potential entities or activities.  |
+| <b>COMINT (Communications Intelligence)</b>  | Data collected by intercepting signals exchanged between people.                                                |
+| <b>CRIMINT (Criminal Intelligence)</b>       | Information about criminal activities.                                                                          |
+| <b>CYBINT (Cyber Intelligence)</b>           | Data gathered from computer systems and networks.                                                               |
+| <b>DARKINT (Darkweb Intelligence)</b>        | Data collected from Tor, I2P, Freenet, and other dark web networks.                                             |       
+| <b>FININT (Financial Intelligence)</b>       | Information on financial activities, often sourced from financial institutions.                                 |
+| <b>GEOINT (Geospatial Intelligence)</b>      | Geographic data typically obtained from satellites.                                                             |
+| <b>IMINT (Imagery Intelligence)</b>          | Information derived from photos or other imagery.                                                               |
+| <b>SIGINT (Signals Intelligence)</b>         | Data collected by intercepting signals exchanged between individuals or electronic systems.                     | 
+| <b>SOCMINT (Social Media Intelligence)</b>   | Intelligence gathered from social media platforms.                                                              |
+| <b>TECHINT (Technical Intelligence)</b>      | Data about equipment and technologies.                                                                          |
+| <b>WEBINT (Web Intelligence)</b>             | Data gathered from web platforms.                                                                               |
+| <b>HUMINT (Human Intelligence)</b>           |  Gathering and analyzing information from human sources, such as agents or informants.                          |
 
 
 ---
@@ -51,8 +43,8 @@
 7.  [GEOINT](#geoint)
 8.  [IMINT](#imint)
 9.  [Learning Resources](#learning-resources)
-10. [Contributing](#contributing)
-11. [License](#license)
+
+
 
 ---
 
@@ -61,7 +53,7 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-## OSINT (Open-source Intelligence) 🕵️  
+## OSINT (Open-source Intelligence)  
 
 ### 
 
@@ -87,7 +79,7 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-## BLOCKINT (Blockchain Intelligence) 🪙     
+## BLOCKINT (Blockchain Intelligence)      
 
  [OnChain Industries](https://www.onchain.industries/)    
 
@@ -154,7 +146,7 @@ Match mountain landscapes.
 
 ## IMINT (Image Intelligence) 🖼 
 
-## Face Recognition 🤦‍♂️ 
+### Face Recognition 🤦‍♂️ 
 [FaceCheck](https://facecheck.id/)  
 [Pimeyes](https://pimeyes.com/)  
 
@@ -185,16 +177,7 @@ Match mountain landscapes.
 ### Courses
   - In Progress.
     
----
-
-##  Contributing 
-Contrbuting to this repo is w
 
 ---
 
-###  License 📄
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and share it for both personal and commercial purposes.
-
----
-
-🌟 **If you find this repository useful, consider giving it a star!** 🌟
+**If you find this repository useful, consider giving it a star!** 🌟
