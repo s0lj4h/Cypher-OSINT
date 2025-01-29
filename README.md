@@ -6,8 +6,8 @@
 
 ## Definitions 
 
-<b>OSINT (Open-Source Intelligence)</b>information gathered from publicly available sources such as websites, social media, public records, news outlets, and satellite imagery.    
-<b>BLOCKINT (Blockchain Intelligence)</b> - Analyzing blockchain data to uncover insights about cryptocurrency transactions and activities. track digital assets, identify suspicious patterns, and link transactions to potential entities or activities.       
+<b>OSINT (Open-Source Intelligence)</b>information gathered from publicly available sources.
+<b>BLOCKINT (Blockchain Intelligence)</b> - Cryptocurrency blockchain data, tracking digital assets, identify suspicious patterns, and link transactions to potential entities or activities.       
 <b>COMINT (Communications Intelligence)</b> — Data collected by intercepting signals exchanged between people.      
 <b>CRIMINT (Criminal Intelligence)</b> — Information about criminal activities.      
 <b>CYBINT (Cyber Intelligence)</b> — Data gathered from computer systems and networks.      
@@ -21,9 +21,27 @@
 <b>WEBINT (Web Intelligence)</b> - Data gathered from web platforms.      
 <b>HUMINT (Human Intelligence)</b> - Gathering and analyzing information from human sources, such as agents or informants.      
 
+| Term                        | Definition                                                                                             |
+|-----------------------------|--------------------------------------------------------------------------------------------------------|
+| OSINT [OSINT](#osint)                     | Open-source Intelligence; information gathered from publicly available sources.                                    |
+| Social Media                              | (#social-media)   |
+| Domain/IP/Links                           | (#domainiplinks)                  |
+| Image Search and Identification           | [Explore](#image-search-and-identification)                         |
+| Cryptocurrencies                          | [Explore](#cryptocurrencies)                       |
+| Messengers                                | [Explore](#messengers)                       |
+| Code                                      | [Explore](#code)                       |
+| Search engines                            | [Explore](#search-engines)                       |
+| IOT                                       | [Explore](#iot)                       |
+| Archives                                  | [Explore](#archives)                       |
+| Passwords                                  | [Explore](#passwords)                       |
+| Emails                                  | [Explore](#emails)                       |
+| Nicknames                                  | [Explore](#nicknames)                       |
+
+
+
 ---
 
-###  Table of Contents 📖
+##  Table of Contents 📖
 1.  [Overview](#overview)
 2.  [OSINT](#osint)
 3.  [BLOCKINT](#blockint)
@@ -38,16 +56,18 @@
 
 ---
 
-### [](#overview)Overview 🔍   
+## Overview 🔍   
 This repository collects various OSINT tools and resources.  
 
 ---
 
-### [](#osint)OSINT (Open-source Intelligence) 🕵️  
- 
-## Username 
+## OSINT (Open-source Intelligence) 🕵️  
+
+### 
+
+### Username 
 [Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.     
-[WhatsMyName](https://whatsmyname.app/) - WhatsMyName is a web platform that provides a simple interface to check usernames existing on social media and other platforms.     
+[WhatsMyName](https://whatsmyname.app/) - WhatsMyName is a web platform that provides a simple interface to check usernames existing on social media and other platforms.    
 [Blackbird](https://github.com/p1ngul1n0/blackbird) - CLI OSINT tool that conducts fast searches based on usernames and emails, command-line version of WhatsMyName.     
 [Namechk](https://namechk.com/) - Checks username availability across hundreds of platforms, including domains.     
 [Sherlock](https://github.com/sherlock-project/sherlock) - Username enumeration. checks for a username presence on over 300 platforms.     
@@ -67,72 +87,72 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-### BLOCKINT (Blockchain Intelligence) 🪙     
+## BLOCKINT (Blockchain Intelligence) 🪙     
 
  [OnChain Industries](https://www.onchain.industries/)    
 
  ---
 
- ### DARKINT (Darkweb Intelligence) 🥷    
+ ## DARKINT (Darkweb Intelligence) 🥷    
   
 
 ---
 
-### FININT (Financial Intelligence) 💳    
+## FININT (Financial Intelligence) 💳    
 
 
 ---
 
-### GEOINT (Geospatial Intelligence) 🗺️   
+## GEOINT (Geospatial Intelligence) 🗺️   
 
-## Maps & Satellite 🌍  
+### Maps & Satellite  
 [Google Earth](https://earth.google.com/)    
 [World Wayback](https://worldwayback.com/)    
 [Sentinel](https://www.sentinel-hub.com/)    
 
-##  AI-Powered Geo-Estimation 🤖  
+###  AI-Powered Geo-Estimation   
 [GeoEstimation](https://geoestimation.com/)    
 
-## Screenshot & Annotation Tools 🖼   
+### Screenshot & Annotation Tools   
 [ShareX](https://getsharex.com/)    
 [Flameshot](https://flameshot.org/)    
 
-## Source Search 🔗  
+### Source Search   
 [Bing](https://www.bing.com/)    
 [Google](https://images.google.com/)    
 [Source Searcher](https://sourceseacher.com/)    
 
-## Shadow-Based Time Calculators 🌞  
+### Shadow-Based Time Calculators   
 Determine the time of day a photo was taken by analyzing shadows.    
   
 [SunCalc](https://www.suncalc.org/)    
 [ShadowMap](https://shadowmap.org/)    
 [ShadowCalculator](https://www.shadowcalculator.eu/)    
 
-## Object Identification 📍  
+## Object Identification   
 Compare common objects (traffic lights, road signs, power poles, etc.) across different regions.    
   
 [GeoHints](https://geohints.com/)    
 
-## Plant Identification 🌱  
+## Plant Identification   
 Recognize plants in photos and find out where they are commonly found.    
   
 [Identify PlantNet](https://identify.plantnet.org/)    
 
-## Bird Identification 🐦    
+### Bird Identification     
 Identify and map birds species and where they can be found globally.    
   
 [MerlinAllAboutBirds](https://merlin.allaboutbirds.org/)    
 [eBird](https://ebird.org/)    
 
-## Landscape 🏞  
+### Landscape 🏞  
 Match mountain landscapes.  
   
 [PeakVisor](https://peakvisor.com/)  
 
 ---
 
-### IMINT (Image Intelligence) 🖼 
+## IMINT (Image Intelligence) 🖼 
 
 ## Face Recognition 🤦‍♂️ 
 [FaceCheck](https://facecheck.id/)  
@@ -140,16 +160,16 @@ Match mountain landscapes.
 
 ---
 
-### Webint (Web Intelligence) 🕸 
+## Webint (Web Intelligence) 🕸 
 
-## Domain and IP Analysis 🌐 
+### Domain and IP Analysis 🌐 
   [Whois Lookup](https://whois.domaintools.com/)  
   [IPVoid](https://www.ipvoid.com/)  
   [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS enumeration tool.  
 
 ---
 
-###  SOCMINT (Social Media Intelligence)📲
+##  SOCMINT (Social Media Intelligence)📲
 
 [Pipl](https://pipl.com/) - People search.  
 [Social-Searcher](https://www.social-searcher.com/) - Social media monitoring.  
@@ -157,18 +177,18 @@ Match mountain landscapes.
 
 ---
 
-###  Learning Resources 🎓
+##  Learning Resources 🎓
 
-- ##Tutorials
+### Tutorials
   - In Progress.
     
-- ##Courses
+### Courses
   - In Progress.
     
 ---
 
-###  Contributing 🤝
-We welcome contributions! 
+##  Contributing 
+Contrbuting to this repo is w
 
 ---
 
