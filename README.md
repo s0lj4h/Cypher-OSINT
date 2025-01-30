@@ -47,7 +47,7 @@ This repository collects various OSINT tools and resources.
 
 ---
 
-## OSINT (Open-source Intelligence)  
+## (#osint) OSINT (Open-source Intelligence)  
 
 ### Search Engines
 * [Aol](https://search.aol.com) 
