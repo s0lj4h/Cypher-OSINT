@@ -7,7 +7,7 @@
 ## Definitions 
 
 
-| Term                                         | Definition                                                                                                         |
+| Term                                         | Definition                                                                                                      |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | <b>OSINT (Open-source Intelligence)</b>      | Information gathered from publicly available sources.                                                           |
 | <b>BLOCKINT (Blockchain Intelligence)</b>    | Blockchain data, digital assets, identify patterns, and link transactions to potential entities or activities.  |
@@ -42,12 +42,12 @@
 
 ---
 
-## [](#overview) Overview    
+## [](overview) Overview    
 This repository collects various OSINT tools and resources.  
 
 ---
 
-## [](#osint) OSINT (Open-source Intelligence)  
+## [](osint) OSINT (Open-source Intelligence)  
 
 ### Search Engines
 * [Aol](https://search.aol.com) 
@@ -92,18 +92,18 @@ This repository collects various OSINT tools and resources.
 
  ---
 
- ## DARKINT (Darkweb Intelligence) 🥷    
+ ## DARKINT (Darkweb Intelligence)     
   
  [Criminal IP](https://www.criminalip.io/) 
 
 ---
 
-## FININT (Financial Intelligence) 💳    
+## FININT (Financial Intelligence)    
 
 
 ---
 
-## GEOINT (Geospatial Intelligence) 🗺️   
+## GEOINT (Geospatial Intelligence) 🗺   
 
 ### Maps & Satellite  
 [Google Earth](https://earth.google.com/)    
@@ -145,7 +145,7 @@ Identify and map birds species and where they can be found globally.
 [MerlinAllAboutBirds](https://merlin.allaboutbirds.org/)    
 [eBird](https://ebird.org/)    
 
-### Landscape 🏞  
+### Landscape  
 Match mountain landscapes.  
   
 [PeakVisor](https://peakvisor.com/)  
@@ -154,7 +154,7 @@ Match mountain landscapes.
 
 ## IMINT (Image Intelligence) 🖼 
 
-### Face Recognition 🤦‍♂️ 
+### Face Recognition 
 [FaceCheck](https://facecheck.id/)  
 [Pimeyes](https://pimeyes.com/)  
 
@@ -162,14 +162,14 @@ Match mountain landscapes.
 
 ## Webint (Web Intelligence) 🕸 
 
-### Domain and IP Analysis 🌐 
+### Domain and IP Analysis  
   [Whois Lookup](https://whois.domaintools.com/)  
   [IPVoid](https://www.ipvoid.com/)  
   [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS enumeration tool.  
 
 ---
 
-##  SOCMINT (Social Media Intelligence)📲
+##  SOCMINT (Social Media Intelligence)
 
 [Pipl](https://pipl.com/) - People search.  
 [Social-Searcher](https://www.social-searcher.com/) - Social media monitoring.  
@@ -177,7 +177,7 @@ Match mountain landscapes.
 
 ---
 
-##  Learning Resources 🎓
+##  Learning Resources 
 
 ### Tutorials
   - In Progress.
