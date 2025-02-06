@@ -91,7 +91,7 @@ This repository provides a curated collection of OSINT tools and resources.
 
 ---
 
-## **GEOINT (Geospatial Intelligence) 🗺**  
+## **GEOINT (Geospatial Intelligence)**  
 
 ### **Maps & Satellite Services**  
 - [Google Earth](https://earth.google.com/)  
@@ -126,7 +126,7 @@ This repository provides a curated collection of OSINT tools and resources.
 
 ---
 
-## **IMINT (Image Intelligence) 🖼**  
+## **IMINT (Image Intelligence)**  
 
 ### **Face Recognition**  
 - [FaceCheck](https://facecheck.id/)  
@@ -134,7 +134,7 @@ This repository provides a curated collection of OSINT tools and resources.
 
 ---
 
-## **WEBINT (Web Intelligence) 🕸**  
+## **WEBINT (Web Intelligence)**  
 
 ### **Domain & IP Analysis**  
 - [Whois Lookup](https://whois.domaintools.com/)  
