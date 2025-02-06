@@ -1,191 +1,163 @@
-<h1 align="center">
-<b>Cypher OSINT</b>  
-</h1 align="center">  
+# **Cypher OSINT**  
 
----
-
-## Definitions 
-
+## Definitions  
 
 | Term                                         | Definition                                                                                                      |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| <b>OSINT (Open-source Intelligence)</b>      | Information gathered from publicly available sources.                                                           |
-| <b>BLOCKINT (Blockchain Intelligence)</b>    | Blockchain data, digital assets, identify patterns, and link transactions to potential entities or activities.  |
-| <b>COMINT (Communications Intelligence)</b>  | Data collected by intercepting signals exchanged between people.                                                |
-| <b>CRIMINT (Criminal Intelligence)</b>       | Information about criminal activities.                                                                          |
-| <b>CYBINT (Cyber Intelligence)</b>           | Data gathered from computer systems and networks.                                                               |
-| <b>DARKINT (Darkweb Intelligence)</b>        | Data collected from Tor, I2P, Freenet, and other dark web networks.                                             |       
-| <b>FININT (Financial Intelligence)</b>       | Information on financial activities, often sourced from financial institutions.                                 |
-| <b>GEOINT (Geospatial Intelligence)</b>      | Geographic data typically obtained from satellites.                                                             |
-| <b>IMINT (Imagery Intelligence)</b>          | Information derived from photos or other imagery.                                                               |
-| <b>SIGINT (Signals Intelligence)</b>         | Data collected by intercepting signals exchanged between individuals or electronic systems.                     | 
-| <b>SOCMINT (Social Media Intelligence)</b>   | Intelligence gathered from social media platforms.                                                              |
-| <b>TECHINT (Technical Intelligence)</b>      | Data about equipment and technologies.                                                                          |
-| <b>WEBINT (Web Intelligence)</b>             | Data gathered from web platforms.                                                                               |
-| <b>HUMINT (Human Intelligence)</b>           | Gathering and analyzing information from human sources, such as agents or informants.                          |
-
-
----
-
-##  Table of Contents 📖
-1.  [Overview](#overview)
-2.  [OSINT](#osint)
-3.  [BLOCKINT](#blockint)
-4.  [DARKINT](#darkint)
-5.  [SOCMINT](#socmint) 
-6.  [FININT](#finint)
-7.  [GEOINT](#geoint)
-8.  [IMINT](#imint)
-9.  [Learning Resources](#learning-resources)
-
-
+| **OSINT (Open-source Intelligence)**        | Information gathered from publicly available sources.                                                            |
+| **BLOCKINT (Blockchain Intelligence)**      | Analysis of blockchain data, digital assets, patterns, and transactions linked to entities or activities.        |
+| **COMINT (Communications Intelligence)**    | Intelligence gathered by intercepting signals exchanged between people.                                          |
+| **CRIMINT (Criminal Intelligence)**         | Information related to criminal activities.                                                                      |
+| **CYBINT (Cyber Intelligence)**             | Intelligence derived from computer systems and networks.                                                         |
+| **DARKINT (Dark Web Intelligence)**         | Information collected from dark web networks such as Tor, I2P, and Freenet.                                      |
+| **FININT (Financial Intelligence)**         | Analysis of financial activities, often sourced from financial institutions.                                     |
+| **GEOINT (Geospatial Intelligence)**        | Geographic data obtained from satellites and other mapping sources.                                              |
+| **IMINT (Imagery Intelligence)**            | Intelligence derived from photographs, satellite images, or other visual sources.                                |
+| **SIGINT (Signals Intelligence)**           | Data collected by intercepting signals exchanged between individuals or electronic systems.                      |
+| **SOCMINT (Social Media Intelligence)**     | Intelligence gathered from social media platforms.                                                               |
+| **TECHINT (Technical Intelligence)**        | Intelligence related to equipment, emerging technologies, and technical capabilities.                            |
+| **WEBINT (Web Intelligence)**               | Information gathered from web platforms, including surface, deep, and dark web sources.                          |
+| **HUMINT (Human Intelligence)**             | Intelligence collected through human sources such as informants or agents.                                       |
 
 ---
 
-## [](#overview) Overview    
-This repository collects various OSINT tools and resources.  
+## 📖 Table of Contents  
+1.  [Overview](#overview)  
+2.  [OSINT](#osint-open-source-intelligence)  
+3.  [BLOCKINT](#blockint-blockchain-intelligence)  
+4.  [DARKINT](#darkint-dark-web-intelligence)  
+5.  [SOCMINT](#socmint-social-media-intelligence)  
+6.  [FININT](#finint-finnancial-intelligence)  
+7.  [GEOINT](#geoint-geospatial-intelligence)  
+8.  [IMINT](#imint-image-intelligemce)  
+9.  [Learning Resources](#learning-resources)  
 
 ---
 
-## [](#osint) OSINT (Open-source Intelligence)  
-
-### Search Engines
-* [Aol](https://search.aol.com) 
-* [Ask](https://www.ask.com)
-* [Baidu](http://www.baidu.com) 
-* [Bing](https://www.bing.com) 
-* [Brave](https://search.brave.com) 
-* [DuckDuckGo](https://duckduckgo.com) 
-* [Goodsearch](https://www.goodsearch.com) 
-* [Google Search](https://www.google.com) 
-* [Mojeek](https://www.mojeek.com/) 
-* [Search.com](https://www.search.com) 
-* [Yahoo! Search](https://www.yahoo.com) 
-* [Yandex](http://www.yandex.com)
-
-
-### Username 
-[Maigret](https://t.me/osint_maigret_bot/) - Maigret is a Telegram bot that performs username searches across 3000 platforms.     
-[WhatsMyName](https://whatsmyname.app/) - WhatsMyName is a web platform that provides a simple interface to check usernames existing on social media and other platforms.    
-[Blackbird](https://github.com/p1ngul1n0/blackbird) - CLI OSINT tool that conducts fast searches based on usernames and emails, command-line version of WhatsMyName.     
-[Namechk](https://namechk.com/) - Checks username availability across hundreds of platforms, including domains.     
-[Sherlock](https://github.com/sherlock-project/sherlock) - Username enumeration. checks for a username presence on over 300 platforms.     
-[Enola](https://github.com/TheYahya/enola) - A more modern CLI tool to assist in identifying social media accounts based on username across different platforms.     
-[DetectDee](https://github.com/piaolin/DetectDee) - Search for social media accounts by username, email to phone.     
-[UserRecon](https://github.com/thelinuxchoice/userrecon) - UserRecon is another command-line tool similar to Sherlock, but with a slightly smaller database.     
-[Social Analyzer](https://github.com/qeeqbox/social-analyzer) - Social Analyzer supports both username and email searches.      
-[Social Searcher](https://social-searcher.com/) - Social media search engine, searches for usernames mentions and trends.     
-[Instant Username Search](https://instantusername.com/) - Checks for username availability across multiple platforms.     
-[Namecheckup](https://namecheckup.com/) - Searches for username availability on over 300 platforms.     
-  
-### Data Visualization and Automation
-[Maltego](https://www.maltego.com/) - A powerful data visualization tool.    
-[SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT tool.    
-[TheHarvester](https://github.com/laramies/theHarvester) - Email, subdomain, and IP gathering tool.    
-  
+## Overview  
+This repository provides a curated collection of OSINT tools and resources.
 
 ---
 
-## BLOCKINT (Blockchain Intelligence)      
+## **OSINT (Open Source Intelligence)**  
 
- [OnChain Industries](https://www.onchain.industries/)    
+### **Search Engines**
+- [Aol](https://search.aol.com)  
+- [Ask](https://www.ask.com)  
+- [Baidu](http://www.baidu.com)  
+- [Bing](https://www.bing.com)  
+- [Brave](https://search.brave.com)  
+- [DuckDuckGo](https://duckduckgo.com)  
+- [Goodsearch](https://www.goodsearch.com)  
+- [Google Search](https://www.google.com)  
+- [Mojeek](https://www.mojeek.com/)  
+- [Search.com](https://www.search.com)  
+- [Yahoo! Search](https://www.yahoo.com)  
+- [Yandex](http://www.yandex.com)  
 
- ---
+### **Username Enumeration**
+- [Maigret](https://t.me/osint_maigret_bot/) - Telegram bot that searches usernames across 3,000 platforms.  
+- [WhatsMyName](https://whatsmyname.app/) - Web-based username lookup tool.  
+- [Blackbird](https://github.com/p1ngul1n0/blackbird) - CLI tool for searching usernames and emails.  
+- [Namechk](https://namechk.com/) - Checks username availability across multiple platforms.  
+- [Sherlock](https://github.com/sherlock-project/sherlock) - Searches usernames across 300+ platforms.  
+- [Enola](https://github.com/TheYahya/enola) - Modern CLI tool for finding social media accounts.  
+- [DetectDee](https://github.com/piaolin/DetectDee) - Finds social media profiles based on username, email, or phone.  
+- [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - Supports username and email searches.  
+- [Instant Username Search](https://instantusername.com/) - Checks username availability on various platforms.  
 
- ## DARKINT (Darkweb Intelligence)     
-  
- [Criminal IP](https://www.criminalip.io/) 
-
----
-
-## FININT (Financial Intelligence)    
-
-
----
-
-## GEOINT (Geospatial Intelligence) 🗺   
-
-### Maps & Satellite  
-[Google Earth](https://earth.google.com/)    
-[World Wayback](https://worldwayback.com/)    
-[Sentinel](https://www.sentinel-hub.com/)    
-
-###  AI-Powered Geo-Estimation   
-[GeoEstimation](https://geoestimation.com/)    
-
-### Screenshot & Annotation Tools   
-[ShareX](https://getsharex.com/)    
-[Flameshot](https://flameshot.org/)    
-
-### Source Search   
-[Bing](https://www.bing.com/)    
-[Google](https://images.google.com/)    
-[Source Searcher](https://sourceseacher.com/)    
-
-### Shadow-Based Time Calculators   
-Determine the time of day a photo was taken by analyzing shadows.    
-  
-[SunCalc](https://www.suncalc.org/)    
-[ShadowMap](https://shadowmap.org/)    
-[ShadowCalculator](https://www.shadowcalculator.eu/)    
-
-## Object Identification   
-Compare common objects (traffic lights, road signs, power poles, etc.) across different regions.    
-  
-[GeoHints](https://geohints.com/)    
-
-## Plant Identification   
-Recognize plants in photos and find out where they are commonly found.    
-  
-[Identify PlantNet](https://identify.plantnet.org/)    
-
-### Bird Identification     
-Identify and map birds species and where they can be found globally.    
-  
-[MerlinAllAboutBirds](https://merlin.allaboutbirds.org/)    
-[eBird](https://ebird.org/)    
-
-### Landscape  
-Match mountain landscapes.  
-  
-[PeakVisor](https://peakvisor.com/)  
+### **Data Visualization and Automation**
+- [Maltego](https://www.maltego.com/) - Powerful data visualization tool.  
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT gathering tool.  
+- [TheHarvester](https://github.com/laramies/theHarvester) - Email, subdomain, and IP intelligence tool.  
 
 ---
 
-## IMINT (Image Intelligence) 🖼 
-
-### Face Recognition 
-[FaceCheck](https://facecheck.id/)  
-[Pimeyes](https://pimeyes.com/)  
+## **BLOCKINT (Blockchain Intelligence)**  
+- [OnChain Industries](https://www.onchain.industries/) - Blockchain intelligence and monitoring platform.  
 
 ---
 
-## Webint (Web Intelligence) 🕸 
-
-### Domain and IP Analysis  
-  [Whois Lookup](https://whois.domaintools.com/)  
-  [IPVoid](https://www.ipvoid.com/)  
-  [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS enumeration tool.  
+## **DARKINT (Dark Web Intelligence)**  
+- [Criminal IP](https://www.criminalip.io/) - Dark web and cybercrime intelligence tool.  
 
 ---
 
-##  SOCMINT (Social Media Intelligence)
-
-[Pipl](https://pipl.com/) - People search.  
-[Social-Searcher](https://www.social-searcher.com/) - Social media monitoring.  
-
+## **FININT (Financial Intelligence)**  
+(Work in Progress)  
 
 ---
 
-##  Learning Resources 
+## **GEOINT (Geospatial Intelligence) 🗺**  
 
-### Tutorials
-  - In Progress.
-    
-### Courses
-  - In Progress.
-    
+### **Maps & Satellite Services**  
+- [Google Earth](https://earth.google.com/)  
+- [World Wayback](https://worldwayback.com/)  
+- [Sentinel Hub](https://www.sentinel-hub.com/)  
+
+### **AI-Powered Geo-Estimation**  
+- [GeoEstimation](https://geoestimation.com/)  
+- [GeoSpy](https://geospy.ai/)
+
+### **Screenshot & Annotation Tools**  
+- [ShareX](https://getsharex.com/)  
+- [Flameshot](https://flameshot.org/)  
+
+### **Shadow Based Time Calculators**  
+- [SunCalc](https://www.suncalc.org/)  
+- [ShadowMap](https://shadowmap.org/)  
+- [ShadowCalculator](https://www.shadowcalculator.eu/)  
+
+### **Object Identification**  
+- [GeoHints](https://geohints.com/)  
+
+### **Plant Identification**  
+- [PlantNet](https://identify.plantnet.org/)  
+
+### **Bird Identification**  
+- [Merlin Bird ID](https://merlin.allaboutbirds.org/)  
+- [eBird](https://ebird.org/)  
+
+### **Landscape Recognition**  
+- [PeakVisor](https://peakvisor.com/)  
 
 ---
 
-**If you find this repository useful, consider giving it a star!** 🌟
+## **IMINT (Image Intelligence) 🖼**  
+
+### **Face Recognition**  
+- [FaceCheck](https://facecheck.id/)  
+- [PimEyes](https://pimeyes.com/)  
+
+---
+
+## **WEBINT (Web Intelligence) 🕸**  
+
+### **Domain & IP Analysis**  
+- [Whois Lookup](https://whois.domaintools.com/)  
+- [IPVoid](https://www.ipvoid.com/)  
+- [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS enumeration tool.  
+
+---
+
+## **SOCMINT (Social Media Intelligence)**  
+- [Pipl](https://pipl.com/) - People search engine.  
+- [Social-Searcher](https://www.social-searcher.com/) - Social media monitoring tool.  
+
+---
+
+## **Learning Resources**  
+
+### **Tutorials**  
+- (Work in Progress)  
+
+### **Courses**  
+- (Work in Progress)  
+
+---
+
+## **Contribute & Support**  
+If you find this repository useful, consider giving it a ⭐ on GitHub!  
+
+---
+
