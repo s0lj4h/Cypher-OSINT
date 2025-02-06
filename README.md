@@ -1,5 +1,6 @@
-# **Cypher OSINT**  
-
+<h1 align="center">
+<b>Cypher OSINT</b>  
+</h1 align="center">  
 ## Definitions  
 
 | Term                                         | Definition                                                                                                      |
