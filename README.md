@@ -44,19 +44,19 @@ This repository provides a curated collection of OSINT tools and resources.
 
 ## **OSINT (Open Source Intelligence)**  
 
-### **Search Engines**
-- [Aol](https://search.aol.com)  
-- [Ask](https://www.ask.com)  
-- [Baidu](http://www.baidu.com)  
-- [Bing](https://www.bing.com)  
-- [Brave](https://search.brave.com)  
-- [DuckDuckGo](https://duckduckgo.com)  
-- [Goodsearch](https://www.goodsearch.com)  
-- [Google Search](https://www.google.com)  
-- [Mojeek](https://www.mojeek.com/)  
-- [Search.com](https://www.search.com)  
-- [Yahoo! Search](https://www.yahoo.com)  
-- [Yandex](http://www.yandex.com)  
+### Search Engines  
+
+- [Ask](https://www.ask.com) - search engine on a question-and-answer format, primarily relies on third-party search results.    
+- [Baidu](http://www.baidu.com) - Baidu is China’s dominant search engine, operates under government regulations and includes content filtering.
+- [Bing](https://www.bing.com) - Microsoft’s search engine.
+- [Brave](https://search.brave.com) - privacy-focused search engine that operates independently without relying on Google or Bing.  
+- [DuckDuckGo](https://duckduckgo.com) - search engine designed to protect user privacy by not tracking or storing personal data.
+- [Goodsearch](https://www.goodsearch.com) - search engine that donates a portion of its ad revenue to nonprofit organizations chosen by users.
+- [Google Search](https://www.google.com) - Google Search is the most widely used search engine.
+- [Mojeek](https://www.mojeek.com/) - independent search engine, emphasizes neutrality and privacy in its search results.
+- [Search.com](https://www.search.com) - metasearch engine that compiles search results from multiple sources.  
+- [Yahoo! Search](https://www.yahoo.com)  - search engine currently powered by Bing. once a major competitor to Google, now integrates with other Yahoo services, such as news and finance.  
+- [Yandex](http://www.yandex.com) - Yandex is Russia’s largest search engine.  
 
 ### **Username Enumeration**
 - [Maigret](https://t.me/osint_maigret_bot/) - Telegram bot that searches usernames across 3,000 platforms.  
