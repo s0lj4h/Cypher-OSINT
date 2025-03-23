@@ -161,7 +161,7 @@ This repository provides a curated collection of OSINT tools and resources.
 - [Pipl](https://pipl.com/) - People search engine.  
 - [Social-Searcher](https://www.social-searcher.com/) - Social media monitoring tool.  
 
-###<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="24" /> **YouTube** 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="24" /> **YouTube** 
 - [Channel Crawl](https://channelcrawl.com/) – Search YouTube channels using multiple filters. Free version displays up to 30 results.   
 - [ChannelCrawler](https://channelcrawler.com/) – Advanced filtering options; requires registration for free access.   
 - [Channel Finder](https://aitoolskit.ai/youtube-channel-search/output) – Offers channel activity insights and audience engagement; limited free searches per day.  
