@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>Cypher OSINT</b>  
+<b>Cypher</b>  
 </h1 align="center">    
 
 ## Definitions  
@@ -44,7 +44,7 @@ This repository provides a curated collection of OSINT tools and resources.
 
 ## **OSINT (Open Source Intelligence)**  
 
-### Search Engines  
+### **Search Engines** 
 
 - [Ask](https://www.ask.com) - search engine on a question-and-answer format, primarily relies on third-party search results.    
 - [Baidu](http://www.baidu.com) - Baidu is China’s dominant search engine, operates under government regulations and includes content filtering.
@@ -73,6 +73,20 @@ This repository provides a curated collection of OSINT tools and resources.
 - [Maltego](https://www.maltego.com/) - Powerful data visualization tool.  
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT gathering tool.  
 - [TheHarvester](https://github.com/laramies/theHarvester) - Email, subdomain, and IP intelligence tool.  
+
+### **Maritime**  
+- [MarineTraffic](https://www.marinetraffic.com/) - One of the most widely used platforms for real-time AIS vessel tracking.    
+- [VesselFinder](https://www.vesselfinder.com/) - Tracks vessels globally with live AIS data and port analytics.  
+- [FleetMon](https://www.fleetmon.net/) - Ship tracking, fleet analytics, and historical data.  
+- [ShipSpotting](https://www.shipspotting.com/) - Database of ship images with detailed vessel information, contributed by maritime enthusiasts.  
+- [Maritime Connector](https://maritime.monster/job-links/) - Directory of maritime jobs and shipping companies.  
+- [ShipFinder](https://shipfinder.co/) - Tracks vessels and provides ship identification details.  
+- [WarSearcher (ShipSearcher)](https://warsearcher.com/shipsearcher/) - A search engine for tracking historical and active vessels, including military ships.  
+- [ShippingExplorer](https://www.shippingexplorer.net/en)- Vessel tracking tool with fleet analytics and movement insights.  
+- [Lloyd’s List Directories](https://directories.lloydslist.com/company) - Global directory of shipping companies, shipowners, and maritime operators.  
+- [Maritime Database](https://www.maritime-database.com/) - Directory of vessels and shipping companies.  
+- [ICC-CCS Piracy & Fraud Map](https://icc-ccs.org/map/) - Tracks maritime crime, piracy, and fraud incidents worldwide.  
+- [OpenSeaMap](https://map.openseamap.org/) - Collaborative maritime navigation and intelligence mapping platform.  
 
 ---
 
@@ -147,20 +161,35 @@ This repository provides a curated collection of OSINT tools and resources.
 - [Pipl](https://pipl.com/) - People search engine.  
 - [Social-Searcher](https://www.social-searcher.com/) - Social media monitoring tool.  
 
+###<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="24" /> **YouTube** 
+- [Channel Crawl](https://channelcrawl.com/) – Search YouTube channels using multiple filters. Free version displays up to 30 results.   
+- [ChannelCrawler](https://channelcrawler.com/) – Advanced filtering options; requires registration for free access.   
+- [Channel Finder](https://aitoolskit.ai/youtube-channel-search/output) – Offers channel activity insights and audience engagement; limited free searches per day.  
+- [YouTube Search Tool](https://ytubetool.com/tools/youtube-channel-search) – Locate channels using various search parameters.    
+- [MW Metadata](https://mattw.io/youtube-metadata/) – Extracts metadata from a video, playlist, or channel.    
+- [MW Geofind](https://mattw.io/youtube-geofind/) – Map-based search for geotagged videos uploaded by a channel.   
+- [MW Metadata Bulk](https://mattw.io/youtube-metadata/bulk) – Bulk metadata lookup for multiple YouTube videos.   
+- [Playlist.at](https://playlists.at/youtube/search/) – Advanced content search through YouTube playlists.   
+- [Filmot](https://filmot.com/) – Keyword-based search within YouTube video subtitles.   
+- [YouTube Dork Search Tool](https://aware-online.com/youtube-dork-search/) – Construct advanced search queries to find videos, channels, and playlists.    
+- [Download YouTube Channels](https://github.com/hyperfield/yt-channel-downloader) – Download media content from full YouTube channels.    
+
 ---
+
 
 ## **Learning Resources**  
 
 ### **Tutorials**  
-- (Work in Progress)  
+- (In Progress)  
+---
 
 ### **Courses**  
-- (Work in Progress)  
+- (In Progress)  
 
 ---
 
 ## **Contribute & Support**  
-If you find this repository useful, consider giving it a ⭐ on GitHub!  
+If you find this repository useful, consider giving it a ⭐ 
 
 ---
 
