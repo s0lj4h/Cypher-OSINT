@@ -10,7 +10,7 @@
 | **OSINT (Open-source Intelligence)**        | Information gathered from publicly available sources.                                                            |
 | **BLOCKINT (Blockchain Intelligence)**      | Analysis of blockchain data, digital assets, patterns, and transactions linked to entities or activities.        |
 | **COMINT (Communications Intelligence)**    | Intelligence gathered by intercepting signals exchanged between people.                                          |
-| **CORPINT (Corporate Intelligence)          | Intelligence gathered about companies, including ownership, structure, and financials.                           |
+| **CORPINT (Corporate Intelligence)**        | Intelligence gathered about companies, including ownership, structure, and financials.                           |
 | **CRIMINT (Criminal Intelligence)**         | Information related to criminal activities.                                                                      |
 | **CYBINT (Cyber Intelligence)**             | Intelligence derived from computer systems and networks.                                                         |
 | **DARKINT (Dark Web Intelligence)**         | Information collected from dark web networks such as Tor, I2P, and Freenet.                                      |
