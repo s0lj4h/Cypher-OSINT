@@ -28,13 +28,14 @@
 ## 📖 Table of Contents  
 1.  [Overview](#overview)  
 2.  [OSINT](#osint-open-source-intelligence)  
-3.  [BLOCKINT](#blockint-blockchain-intelligence)  
-4.  [DARKINT](#darkint-dark-web-intelligence)  
-5.  [SOCMINT](#socmint-social-media-intelligence)  
-6.  [FININT](#finint-finnancial-intelligence)  
-7.  [GEOINT](#geoint-geospatial-intelligence)  
-8.  [IMINT](#imint-image-intelligemce)  
-9.  [Learning Resources](#learning-resources)  
+3.  [BLOCKINT](#blockint-blockchain-intelligence)
+4.  [CORPINT](#corporate-intelligence)  
+5.  [DARKINT](#darkint-dark-web-intelligence)  
+6.  [SOCMINT](#socmint-social-media-intelligence)  
+7.  [FININT](#finint-finnancial-intelligence)  
+8.  [GEOINT](#geoint-geospatial-intelligence)  
+9.  [IMINT](#imint-image-intelligemce)  
+10.  [Learning Resources](#learning-resources)  
 
 ---
 
