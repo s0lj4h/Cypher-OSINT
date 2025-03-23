@@ -35,7 +35,7 @@
 7.  [FININT](#finint-finnancial-intelligence)  
 8.  [GEOINT](#geoint-geospatial-intelligence)  
 9.  [IMINT](#imint-image-intelligemce)  
-10.  [Learning Resources](#learning-resources)  
+10. [Learning Resources](#learning-resources)  
 
 ---
 
@@ -152,14 +152,33 @@ This repository provides a curated collection of OSINT tools and resources.
 
 ## **GEOINT (Geospatial Intelligence)**  
 
+### **GIS & Mapping Platforms**  
+- [ArcGIS](https://www.arcgis.com/) – Geographic information system for working with maps and geographic information.  
+- [ERDAS IMAGINE](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine) – Enhance digital imagery for GIS and CAD mapping.  
+- [GRASS GIS](https://grass.osgeo.org/) – Open-source GIS for geospatial data management, analysis, and modeling.  
+- [QGIS](https://www.qgis.org/) – Open-source GIS platform for viewing, editing, and analyzing geospatial data.  
+- [SAGA GIS](http://www.saga-gis.org/) – Open-source GIS tool for spatial data editing and geodata analysis.  
+- [CARTO](https://carto.com/) – Cloud-based platform for GIS, web mapping, and spatial data science.  
+- [Bing Maps](https://www.bing.com/maps) – Microsoft’s web mapping service.  
+- [Google Maps](https://maps.google.com/) – Google’s global web mapping platform.  
+- [OpenStreetMap](https://www.openstreetmap.org/) – Free, editable map of the world.
+
 ### **Maps & Satellite Services**  
 - [Google Earth](https://earth.google.com/)  
 - [World Wayback](https://worldwayback.com/)  
-- [Sentinel Hub](https://www.sentinel-hub.com/)  
+- [Copernicus Open Access Hub](https://scihub.copernicus.eu/) – Free access to Sentinel satellite data.  
+- [Earth Explorer (USGS)](https://earthexplorer.usgs.gov/) – Search and download satellite imagery and aerial photography.  
+- [Planet Labs](https://www.planet.com/) – High-frequency Earth imagery and analytics from satellite fleets.  
+- [Sentinel Hub](https://www.sentinel-hub.com/) – Access to Sentinel data through APIs and visualization services.  
+- [NASA EOSDIS](https://earthdata.nasa.gov/) – NASA’s portal for Earth science satellite data.  
+- [NOAA Weather Radar](https://www.weather.gov/Radar) – Radar-based weather and precipitation data.  
+- [TerrSet](https://clarklabs.org/terrset/) – Geospatial software system for sustainability and Earth monitoring.   
+- [Windy](https://www.windy.com/) – Real-time weather forecast visualization platform.  
 
 ### **AI-Powered Geo-Estimation**  
+- [FlyPix AI](https://flypix.ai/) – Detect, monitor, and analyze objects in satellite and aerial imagery using AI.   
 - [GeoEstimation](https://geoestimation.com/)  
-- [GeoSpy](https://geospy.ai/)
+- [GeoSpy](https://geospy.ai/) - Analyze photos to determine precise geographic locations with AI.  
 
 ### **Screenshot & Annotation Tools**  
 - [ShareX](https://getsharex.com/)  
