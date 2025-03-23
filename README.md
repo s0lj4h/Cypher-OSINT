@@ -10,6 +10,7 @@
 | **OSINT (Open-source Intelligence)**        | Information gathered from publicly available sources.                                                            |
 | **BLOCKINT (Blockchain Intelligence)**      | Analysis of blockchain data, digital assets, patterns, and transactions linked to entities or activities.        |
 | **COMINT (Communications Intelligence)**    | Intelligence gathered by intercepting signals exchanged between people.                                          |
+| **CORPINT (Corporate Intelligence)          | Intelligence gathered about companies, including ownership, structure, and financials.                           |
 | **CRIMINT (Criminal Intelligence)**         | Information related to criminal activities.                                                                      |
 | **CYBINT (Cyber Intelligence)**             | Intelligence derived from computer systems and networks.                                                         |
 | **DARKINT (Dark Web Intelligence)**         | Information collected from dark web networks such as Tor, I2P, and Freenet.                                      |
@@ -95,13 +96,56 @@ This repository provides a curated collection of OSINT tools and resources.
 
 ---
 
+## **CORPINT (Corporate Intelligence)**  
+
+### **Company Registration**  
+- [European Business Register](https://ebra.be/) – Official company registration data from European countries.  
+- [National Company Registers](https://www.gov.uk/get-information-about-a-company) – Government databases for company registration details.  
+- [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries) – Links to company registries outside the U.K.  
+- [OpenCorporates](https://opencorporates.com/) – The largest open database of global company registrations.  
+- [Orbis Directory](https://www.bvdinfo.com/en-gb/our-products/data/orbis) – Global corporate database with financial and ownership insights.  
+
+### **Employee Insights & Company Reviews**  
+- [Glassdoor](https://www.glassdoor.com/) – Employee reviews, salaries, and company culture insights.  
+- [Comparably](https://www.comparably.com/) – Company culture, salary comparisons, and employee reviews.  
+- [Vault](https://www.vault.com/) – Company rankings and workplace reviews.  
+
+### **Business Networking**  
+- [LinkedIn](https://www.linkedin.com/) – Professional networking platform for corporate research.  
+- [Xing](https://www.xing.com/) – Professional networking platform popular in Europe.  
+- [Owler](https://www.owler.com/) – Competitive intelligence platform tracking company activity.  
+
+### **Market Research**  
+- [Crunchbase](https://www.crunchbase.com/) – Startup and investor database with company profiles.  
+- [Hoovers](https://www.dnb.com/products/marketing-sales/dnb-hoovers.html) – Business intelligence platform with company reports.  
+- [SpyFu](https://www.spyfu.com/) – Tool for analyzing competitors’ search marketing strategies.  
+- [SEMrush](https://www.semrush.com/) – SEO and competitive research tool for digital marketing.  
+- [Serpstat](https://serpstat.com/) – SEO and PPC analysis platform.  
+- [iSpionage](https://www.ispionage.com/) – Competitive intelligence tool for SEO and PPC research.  
+
+### **Legal Research**  
+- [Judyrecords](https://www.judyrecords.com/) – Database of 400M+ U.S. court records for legal research.  
+- [UniCourt](https://unicourt.com/) – Legal database with access to U.S. court cases and filings.  
+- [Better Business Bureau](https://www.bbb.org/) – Evaluates businesses based on consumer feedback and accreditation standards.  
+- [GuideStar](https://www.guidestar.org/) – Database of U.S. nonprofits, including financials and leadership.  
+
+---
+
 ## **DARKINT (Dark Web Intelligence)**  
 - [Criminal IP](https://www.criminalip.io/) - Dark web and cybercrime intelligence tool.  
 
 ---
 
 ## **FININT (Financial Intelligence)**  
-(Work in Progress)  
+- [Bloomberg](https://www.bloomberg.com/) – Financial data, business news, and corporate analysis.  
+- [Factiva](https://www.dowjones.com/professional/factiva/) – Premium database for business news and financial research.  
+- [EDGAR Online](https://www.sec.gov/edgar.shtml) – U.S. company filings and financial statements from the SEC.  
+- [Forbes Global 2000](https://www.forbes.com/global2000/) – Ranking of the world’s largest publicly traded companies.  
+- [Inc. 5000](https://www.inc.com/inc5000) – List of the fastest-growing private companies in the U.S.  
+- [Mergent Online](https://www.mergentonline.com/) – Source for global company financials and industry reports.  
+- [Morningstar Research](https://www.morningstar.com/) – Investment research and stock analysis.  
+- [Plunkett Research](https://www.plunkettresearch.com/) – Industry market research and company data.  
+- [Business Source](https://www.ebsco.com/products/research-databases/business-source-complete) – Comprehensive business research database.  
 
 ---
 
